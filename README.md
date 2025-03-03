@@ -20,6 +20,7 @@ Other approaches that can be applied, but not included here
 2. Annotating each feedback with categories [ Ads, Playlist, Experience, .. ] based on business needs.
 
 Here are some examples
+
 **Top Bugs Reported**
 ```
 Random Song Playback: Many users have reported that their playlists do not play in the intended order and instead include random songs that are not part of the selected playlists. For instance, one user stated, “I can't listen to my music because I have to get premium or go listen to Apple Music... Spotify keep asking me for Spotify premium.”
